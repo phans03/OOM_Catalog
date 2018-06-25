@@ -1,0 +1,11 @@
+c:\users\phina\documents\visual studio 2013\Projects\CdCatalogue\CdCatalogue\bin\Debug\CdCatalogue.exe.config
+c:\users\phina\documents\visual studio 2013\Projects\CdCatalogue\CdCatalogue\bin\Debug\CdCatalogue.exe
+c:\users\phina\documents\visual studio 2013\Projects\CdCatalogue\CdCatalogue\bin\Debug\CdCatalogue.pdb
+c:\users\phina\documents\visual studio 2013\Projects\CdCatalogue\CdCatalogue\obj\Debug\CdCatalogue.csprojResolveAssemblyReference.cache
+c:\users\phina\documents\visual studio 2013\Projects\CdCatalogue\CdCatalogue\obj\Debug\CdCatalogue.Properties.Resources.resources
+c:\users\phina\documents\visual studio 2013\Projects\CdCatalogue\CdCatalogue\obj\Debug\CdCatalogue.csproj.GenerateResource.Cache
+c:\users\phina\documents\visual studio 2013\Projects\CdCatalogue\CdCatalogue\obj\Debug\CdCatalogue.exe
+c:\users\phina\documents\visual studio 2013\Projects\CdCatalogue\CdCatalogue\obj\Debug\CdCatalogue.pdb
+c:\users\phina\documents\visual studio 2013\Projects\CdCatalogue\CdCatalogue\obj\Debug\CdCatalogue.newform.resources
+C:\Users\Phina\documents\visual studio 2013\Projects\CdCatalogue\CdCatalogue\obj\Debug\CdCatalogue.Form2.resources
+C:\Users\Phina\documents\visual studio 2013\Projects\CdCatalogue\CdCatalogue\obj\Debug\CdCatalogue.Form3.resources
